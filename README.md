@@ -2,7 +2,7 @@
 Lightning Project Details
 =========================
 
-One way to simulate [lightning is with a random walk](https://docs.google.com/presentation/d/1xGizmPZMgQUjcCF3VoNeVKW0jcfCEb9NSDSkfl5RB9k/edit#slide=id.g40fbbe7893_13_9). In this assignment you will create a program that uses a random walk to seemingly shoot lightning from one side of the canvas to the other every time the mouse is pressed. We will create many variations of this assignment to shoot the lightning in multiple directions, it may not even be lightning, it could be a Light Sabre! We might get lightning to strike building with pointy roofs - the permutations are endless!  You may find [this presentation helpful in completing the Lightning Project](https://docs.google.com/presentation/d/1ga570E_dgM4iSPyWmaa2AmE9roI63Eoe8VdkLu8fdQ4/edit#slide=id.g40fbbe7893_0_24)
+One way to simulate [lightning is with a random walk](https://docs.google.com/presentation/d/1_Q4qn9jOn7EWw4i4laS2KIEP2kgTsVvFQ_-Excx3hpQ/edit#slide=id.g40fbbe7893_13_9). In this assignment you will create a program that uses a random walk to seemingly shoot lightning from one side of the canvas to the other every time the mouse is pressed. We will create many variations of this assignment to shoot the lightning in multiple directions, it may not even be lightning, it could be a Light Sabre! We might get lightning to strike building with pointy roofs - the permutations are endless!  You may find [this presentation helpful in completing the Lightning Project](https://docs.google.com/presentation/d/1435XkVlj6uslnFmrlQmTb_7yaCpoQaVhdgpYHdxnksg/edit#slide=id.g40fbbe7893_0_24)
 
 ## Suggested steps to start the assignment
 
